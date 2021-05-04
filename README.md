@@ -1,1 +1,1 @@
-# indice_fragilite_numerique
+# Indice de fragilité numérique
