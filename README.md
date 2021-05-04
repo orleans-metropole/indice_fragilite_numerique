@@ -1,0 +1,1 @@
+# indice_fragilite_numerique
